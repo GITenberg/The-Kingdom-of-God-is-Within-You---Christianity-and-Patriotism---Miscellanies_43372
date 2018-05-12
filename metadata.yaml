@@ -1,0 +1,41 @@
+_repo: The-Kingdom-of-God-is-Within-You---Christianity-and-Patriotism---Miscellanies_43372
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Wiener, Leo
+    alias: Weiner, Leo
+    birthdate: 1862
+    deathdate: 1939
+    gutenberg_agent_id: '39208'
+    url: http://www.gutenberg.org/2009/agents/39208
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Tolstoy, Lev N.
+    - Tolstoi, Leo
+    - Толстой, Лев Николаевич
+    - Tolstoï, Léon
+    - Tolstoy, Graf Leo
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: ''
+gutenberg_issued: '2013-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43372'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russian literature -- Translations into English'
+title: The Kingdom of God is Within You / Christianity and Patriotism / Miscellanies
+url: http://www.gutenberg.org/ebooks/43372
