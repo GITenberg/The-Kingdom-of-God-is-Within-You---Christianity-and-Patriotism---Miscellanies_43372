@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/136
     wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43372#The-Kingdom-of-God-is-Within-You---Christianity-and-Patriotism---Miscellanies
 gutenberg_issued: '2013-08-01'
 gutenberg_type: Text
 identifiers:
